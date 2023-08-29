@@ -88,3 +88,28 @@
     border: none;
     border-radius: 10px;
 }
+
+.latest-section{
+    background-image: url("/resources/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 500px;
+    margin-top: 100px;
+
+}
+
+.sub-btn{
+    background-color: #E55473;
+    color: white;
+    font-size: 16px;
+    padding: 10px 30px 10px 30px;
+    border: none;
+    border-radius: 10px;
+     margin-left: 50px;
+}
+
+input{
+    padding: 10px 30px 10px 30px;
+    border: none;
+    padding-right: 200px;
+}
